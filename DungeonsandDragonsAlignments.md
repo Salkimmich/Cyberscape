@@ -1,8 +1,10 @@
 Dungeons and Dragons alignment charts:
 
 
-Do you love playing Dungeons and Dragons? If so, did you know that the alignment charts used in the game could also be a useful way to understand open source software languages? Each language has its own characteristics, just like the different D&D character alignments. However, it's also important to consider the language syntax and the developer community reputations when analyzing their usefulness. By doing so, you can gain a better understanding of which language might be the best fit for your project. So, are you ready to level up your open source software knowledge? Let's dive in!
+Do you love playing Dungeons and Dragons? If so, did you know that the alignment charts used in the game could also be a useful way to understand open source software languages? Every software language has its own characteristics, just like the different D&D character alignments. However, it's also important to consider the language syntax and the developer community reputations when analyzing their usefulness. Learning to code in any language will help you to think in the syntatical logic of that language, but there's a lot more to choosing a language than that. When choosing a language, consider not just the language itself, but the kinds of communities that you'll get into from learning it. By doing so, you can gain a better understanding of which language might be the best fit for your project and personality. 
 
+Ready to level up your open source software knowledge? Let's dive in!
+ 
 **Semantic Properties Alignment Chart**
 
 | Alignment  | Lawful     | Neutral    | Chaotic    |
