@@ -9,7 +9,7 @@ Do you love playing Dungeons and Dragons? If so, did you know that the alignment
 |------------|------------|------------|------------|
 | Good       | Rust       | Haskell    | Python     |
 | Neutral    | Java       | Ruby       | JavaScript |
-| Evil       | C++        | Assembly   |            |
+| Evil       | C++        | Assembly   |   Perl     |
 
 Explanation:
 - Lawful Good: Rust is a safe, high-performance language with a strong emphasis on memory safety, reliability, and correctness. It has a strict borrow checker and requires developers to write safe code. 
@@ -20,7 +20,7 @@ Explanation:
 - Chaotic Neutral: PHP is a server-side scripting language with a focus on web development. It has a loose type system and a reputation for being quick and dirty.
 - Lawful Evil: C++ is a low-level language with a focus on performance and efficiency. It has a complex syntax and can be difficult to learn and use, but is highly optimized for system-level programming. 
 - Neutral Evil: Assembly is a low-level language that provides direct access to hardware and is highly optimized for performance. However, it has a steep learning curve and can be difficult to maintain and debug. 
-- Chaotic Evil: There are no languages in this category for this chart.
+- Chaotic Evil: Chaotic Evil: Perl is a language that is often associated with "write-only" code and can be seen as "chaotic evil" due to its tendency to allow obscure syntax and difficult-to-understand code. Its community values practicality and flexibility over readability and maintainability.
 
 **Community Reputation Alignment Chart**
 
